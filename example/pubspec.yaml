@@ -24,7 +24,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_document_picker:
+  flutter_file_picker:
     path: ../
 
 # For information on the generic Dart part of this file, see the

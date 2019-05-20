@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_document_picker'
+  s.name             = 'flutter_file_picker'
   s.version          = '0.0.1'
   s.summary          = 'Allows user pick a document.'
   s.description      = <<-DESC
