@@ -15,6 +15,7 @@ Allows user pick a document.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
+  s.swift_version = '4.0'
   
   s.ios.deployment_target = '8.0'
 end

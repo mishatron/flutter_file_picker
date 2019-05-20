@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_document_picker/flutter_document_picker.dart';
+import 'package:flutter_file_picker/flutter_document_picker.dart';
 
 void main() => runApp(MyApp());
 
